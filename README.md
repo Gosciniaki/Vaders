@@ -1,4 +1,0 @@
-Vaders
-======
-
-Praca zespołowa

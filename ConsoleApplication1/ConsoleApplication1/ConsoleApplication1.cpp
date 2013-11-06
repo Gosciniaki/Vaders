@@ -6,7 +6,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
-	//testowy komentarz2
+	//dupa cycki
+	
 	return 0;
 }
 
