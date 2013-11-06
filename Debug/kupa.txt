@@ -1,0 +1,11 @@
+10 0 0 3
+4 Dariusz Chrapek Poznañ DarkEldar 0 0 0 0 -
+7 Maciej Ciemiñski Poznañ Necron 0 0 0 0 -
+6 Maciej Klorek Poznañ ChaosSpaceMarines 0 0 0 0 -
+3 Marcin Sobkowiak brak DarkAngels 0 0 0 0 -
+9 Mateusz Chrzanowski Poznañ Tau 0 0 0 0 -
+10 BAY BAY 0 0 0 0 1 1 Marcin
+-20128 Poznañ Eldar 0 0 0 0 5 5 Piotr
+-20128 Poznañ DarkEldar 0 0 0 0 8 8 £ukasz
+-20128 Poznañ ImperialGuard 0 0 0 0 2 2 Bart³omiej
+-20128 Poznañ BlackTemplars 0 0 0 0 2 2 Bart³omiej

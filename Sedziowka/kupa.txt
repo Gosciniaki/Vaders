@@ -1,0 +1,7 @@
+6 0 2 6
+1 sdf sdf brak Select 36 14 0 0 - 1 -515 1 -515
+4 ggjhsdfkw sdlkoixcv brak Select 31 4 0 0 - 0 -515 0 -515
+6 sdfsdf sdfsdfsd brak Select 29 5 0 0 - 2 -515 2 -515
+3 sdf hsjdhkjhsdf brak Select 29 3 0 0 - 1 -515 1 -515
+5 ewjhrhkjvxc ihjlsdkhlhsdf brak Select 28 8 0 0 - 2 -515 2 -515
+2 werwer1 fghj brak Select 27 6 0 0 - 0 -515 0 -515
